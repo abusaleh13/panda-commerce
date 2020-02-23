@@ -23,3 +23,28 @@ button.buy-now-btn {
     border: none;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, #e48d45 0%, #aa5506 100%);
+}
+
+.cat2 {
+    background-image: linear-gradient(to right, #ee3979 0%, #860a3e 100%);
+}
+
+.cat3 {
+    background-image: linear-gradient(to right, #2375e0 0%, #052a57 100%);
+} 
+
+.container.categories h1 {
+    color: #ffffff;
+}
+
+.container.categories img {
+    width: 100px;
+}
